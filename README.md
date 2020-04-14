@@ -33,6 +33,4 @@ Copyright (c) 2011 the Podkova Project authors (contact@cyreal.org).
 
 ## Links
 
-* [Podkova on Google Fonts](1)
-
-[1]: https://fonts.google.com/specimen/Podkova
+* [Podkova on Google Fonts](https://fonts.google.com/specimen/Podkova)
